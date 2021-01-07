@@ -261,7 +261,7 @@ to update them.
    to run::
 
      spack activate py-flake8
-     spack activate pep8-naming
+     spack activate py-pep8-naming
 
    so that all of the dependencies are symlinked to a central
    location. If you see an error message like:
